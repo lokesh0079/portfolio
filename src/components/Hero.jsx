@@ -77,10 +77,7 @@ function Hero() {
 
       <div className="hero-image">
 
-        <img
-          src="/profile2.jpeg"
-          alt="Lokesh Gujrathi"
-        />
+     <img src="/portfolio/profile2.jpeg" alt="Lokesh Gujrathi" />
 
       </div>
 
