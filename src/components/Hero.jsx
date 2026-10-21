@@ -39,7 +39,7 @@ function Hero() {
           </a>
 
           <a
-            href="/Lokesh_Gujrathi_React_Developer_Resume.pdf"
+            href="/portfolio/Lokesh_Gujrathi_React_Developer_Resume.pdf"
             target="_blank"
             rel="noreferrer"
             className="btn btn-outline"
